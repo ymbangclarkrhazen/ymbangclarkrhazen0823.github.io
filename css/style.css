@@ -371,7 +371,7 @@ span {
   }
 }
 
-@media (max-width: 991px) {
+@media (max-width: 1024px) {
   .header {
     padding: 2rem 3%;
   }
@@ -393,7 +393,7 @@ span {
   }
 }
 
-@media (max-width: 991px) {
+@media (max-width: 1023px) {
   #menu-icon {
     display: block;
     transition: 0.15;
@@ -472,7 +472,7 @@ span {
   }
 }
 
-@media (max-width: 617px) {
+@media (max-width: 767px) {
   .home-img img {
     width: 70vw;
     margin-top: 6rem;
